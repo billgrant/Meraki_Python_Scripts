@@ -3,3 +3,6 @@
 Scripts that automate tasks via the Meraki API
 
 The scripts require meraki-api-python https://github.com/meraki/dashboard-api-python
+
+pip3 install meraki 
+
